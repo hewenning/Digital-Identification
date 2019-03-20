@@ -1,2 +1,2 @@
 # Digital-identification
-vs2015+opencv3.1.0
+VS2015+OpenCV3.1.0
